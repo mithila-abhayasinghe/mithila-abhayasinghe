@@ -2,8 +2,7 @@
 
 - 🔭 I’m passionate about building scalable software, exploring AI
 
-.. image:: https://wakatime.com/share/@385a2454-7b99-4256-9b88-0220c7a5c3e2/5ad908ab-71d3-4a77-b2d2-c7cd58a6806a.png
-    :target: https://wakatime.com/
+[![WakaTime](https://wakatime.com/share/@385a2454-7b99-4256-9b88-0220c7a5c3e2/1023f2c8-c699-40bd-82a0-b84056ffe528.png)](https://wakatime.com/)
 
 <!--
 **mithila-abhayasinghe/mithila-abhayasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
