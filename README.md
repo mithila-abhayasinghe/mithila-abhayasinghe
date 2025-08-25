@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m passionate about building scalable software, exploring AI
+
 <!--
 **mithila-abhayasinghe/mithila-abhayasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
