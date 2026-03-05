@@ -5,8 +5,7 @@
 ---
 
 ### 🔭 What I'm Working On
-- **NFAMS** — A Government Non-Financial Asset Management System developed for the **Comptroller General's Department**, aimed at modernizing how public sector assets are tracked, managed, and reported at a national scale.
-
+- **NFAMS** — A Government Non-Financial Asset Management System developed for the **Comptroller General's Department**.
 ### 🌱 What I'm Learning
 - **Rust** — Systems programming with a focus on performance and memory safety
 - **Go** — Building fast, concurrent backend services and cloud-native tooling
