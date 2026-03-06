@@ -1,6 +1,6 @@
 ## Hi there, I'm Mithila 👋
 
-🚀 Software Engineer passionate about building scalable systems, exploring AI, and crafting software that makes a real-world impact.
+### 🚀 Software Engineer passionate about building scalable systems, exploring AI, and crafting software that makes a real-world impact.
 ---
 
 ### 🔭 What I'm Currently Working On
