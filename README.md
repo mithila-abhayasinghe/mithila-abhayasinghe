@@ -9,5 +9,5 @@
 - **Rust** , **Go** 
 
 ### 💡 What Drives Me
-- Building software that scales — from architecture to deployment
+- Building software that scales from architecture to deployment
 - Contributing to systems that create meaningful impact
