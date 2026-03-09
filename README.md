@@ -6,7 +6,7 @@
 #### 🔭 What I'm Currently Working On
 - **NFAMS** — A Government Non-Financial Asset Management System developed for the **Comptroller General's Department**.
 #### 🌱 What I'm Currently Learning
-- **Rust** , **Go** 
+- **Go**, **Rust**
 
 #### 💡 What Drives Me
 - Building software that scales from architecture to deployment
