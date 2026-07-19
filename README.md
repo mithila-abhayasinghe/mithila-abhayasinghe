@@ -13,7 +13,12 @@
 <a href="https://www.youtube.com/c/mazzter-0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mazzter-0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mazzter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mazzter" height="30" width="40" /></a>
 </p>
-
+<h3 align="center">Currently Open to:</h3>
+<div align="center">
+  <p>🤝 Internships/Jobs: DevSecOps, Cloud, Platform engineering</p>
+  <p>🛠️ Collaborations: If you think I can make a difference let's connect</p>
+  <p>🌍 Open source: Always excited to contribute to impactful projects.</p>
+</div>
 <h3 align="center">Languages and Tools That I Use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
