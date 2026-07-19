@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">Languages and Tools That I Use</h3>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,bash,docker,kubernetes,jenkins,kafka,grafana,linux,elasticsearch,redis&theme=light" />
   </a>
