@@ -7,6 +7,7 @@
 <p align="center">
 <a href="https://twitter.com/@mithilaabhaya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=light" alt="@mithilaabhaya" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/mithila-abhayasinghe" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="mithila-abhayasinghe" height="30" width="30" /></a>
+<a href="mailto:mithilapansilu47@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" alt="<put_email_here>" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/14113201" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow&theme=light" alt="14113201" height="30" width="30" /></a>
 <a href="https://medium.com/@mithila-abhayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mithila-abhayasinghe" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mazzter-0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mazzter-0" height="30" width="40" /></a>
