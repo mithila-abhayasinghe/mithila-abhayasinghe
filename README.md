@@ -14,13 +14,13 @@
 </p>
 
 <h3 align="center">Languages and Tools That I Use</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,bash,docker,kubernetes,jenkins,kafka,grafana,linux,elasticsearch,redis&perline=6&theme=light" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,bash,docker,kubernetes,jenkins,kafka,grafana,linux,elasticsearch,redis&theme=light" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,java,js,ts,py,nodejs,express,react,vue,mongodb,mysql,postgres,spring&perline=7&theme=light" />
+    <img src="https://skillicons.dev/icons?i=go,java,js,ts,py,nodejs,express,react,vue,mongodb,mysql,postgres,spring&theme=light" />
   </a>
 </p>
 
