@@ -46,12 +46,11 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=mithila-abhayasinghe"
     alt="GitHub Streak"
-    width="49%"
   />
+  <br><br>
   <img
     src="https://github-stats-extended.vercel.app/api?username=mithila-abhayasinghe"
     alt="My GitHub Stats"
-    width="49%"
   />
 </div>
 
