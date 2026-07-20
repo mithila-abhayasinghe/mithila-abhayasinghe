@@ -32,7 +32,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mithila-abhayasinghe"
+    src="https://streak-stats.demolab.com/?user=mithila-abhayasinghe"
     alt="GitHub Streak"
   />
   <br><br>
