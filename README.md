@@ -33,17 +33,14 @@
 <div align="center">
   <img
     src="https://streak-stats.demolab.com/?user=mithila-abhayasinghe"
-    alt="GitHub Streak"
   />
   <br><br>
   <img
     src="https://github-stats-extended.vercel.app/api?username=mithila-abhayasinghe"
-    alt="My GitHub Stats"
   />
   <br><br>
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs?username=mithila-abhayasinghe&layout=compact&langs_count=6"
-    alt="My most used languages"
   />
 </div>
 
