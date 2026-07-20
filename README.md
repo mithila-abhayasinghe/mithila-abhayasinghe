@@ -40,5 +40,10 @@
     src="https://github-stats-extended.vercel.app/api?username=mithila-abhayasinghe"
     alt="My GitHub Stats"
   />
+  <br><br>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=mithila-abhayasinghe&layout=compact&langs_count=5"
+    alt="My most used languages"
+  />
 </div>
 
