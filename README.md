@@ -10,7 +10,6 @@
 <a href="https://twitter.com/@MithilaAbhaya" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=light" alt="@MithilaAbhaya" height="30" width="30" /></a>
 <a href="https://medium.com/@mithila-abhayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mithila-abhayasinghe" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14113201" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow&theme=light" alt="14113201" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/mazzter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mazzter" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mazzter-0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mazzter-0" height="30" width="40" /></a>
 </p>
 <h3 align="center">Currently Open to:</h3>
@@ -43,4 +42,3 @@
     src="https://github-stats-extended.vercel.app/api/top-langs?username=mithila-abhayasinghe&layout=compact&langs_count=6"
   />
 </div>
-
