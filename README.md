@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mithila Abhayasinghe</h1>
 <h3 align="center">Cloud Native Engineer | DevSecOps | Cloud | Platform engineering</h3>
-
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/mithila-abhayasinghe.svg)](https://user-badge.committers.top/sri_lanka/mithila-abhayasinghe)
-
+<p align="center">
+  <img src="https://user-badge.committers.top/sri_lanka/mithila-abhayasinghe.svg" alt="mithila-abhayasinghe" />
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mithila-abhayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="mithila-abhayasinghe" /> </p>
 
 <h3 align="center">Connect with me:</h3>
